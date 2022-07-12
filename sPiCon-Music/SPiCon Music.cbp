@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SPiCon Music" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SPiCon Music" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SPiCon Music" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ClsCliente.h" />
+		<Unit filename="ClsDetalleV.h" />
+		<Unit filename="ClsFecha.h" />
+		<Unit filename="ClsInstrumento.h" />
+		<Unit filename="ClsVenta.h" />
+		<Unit filename="Funciones_Cliente.h" />
+		<Unit filename="Funciones_Configuracion.h" />
+		<Unit filename="Funciones_Instrumento.h" />
+		<Unit filename="Funciones_Reportes.h" />
+		<Unit filename="Funciones_Venta.h" />
+		<Unit filename="MenuPrincipal.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="rlutil.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

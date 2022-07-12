@@ -1,0 +1,484 @@
+# depslib dependency file v1.0
+1653947663 source:c:\users\facus\desktop\nico utn materias\cuatri 2\lab y prog ii\spicon music\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"rlutil.h"
+	"Funciones Utiles.h"
+	"ClsFecha.h"
+	"ClsInstrumento.h"
+	"ClsCliente.h"
+	"ClsVenta.h"
+	"Funciones_Instrumento.h"
+	"MenuPrincipal.h"
+
+1651106385 c:\users\facus\desktop\nico utn materias\cuatri 2\lab y prog ii\spicon music\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1653943820 c:\users\facus\desktop\nico utn materias\cuatri 2\lab y prog ii\spicon music\funciones utiles.h
+
+1653946255 c:\users\facus\desktop\nico utn materias\cuatri 2\lab y prog ii\spicon music\menuprincipal.h
+
+1653946688 c:\users\facus\desktop\nico utn materias\cuatri 2\lab y prog ii\spicon music\clsinstrumento.h
+
+1653947829 c:\users\facus\desktop\nico utn materias\cuatri 2\lab y prog ii\spicon music\clscliente.h
+
+1653944257 c:\users\facus\desktop\nico utn materias\cuatri 2\lab y prog ii\spicon music\clsventa.h
+
+1653947064 c:\users\facus\desktop\nico utn materias\cuatri 2\lab y prog ii\spicon music\funciones_instrumento.h
+
+1653943071 c:\users\facus\desktop\nico utn materias\cuatri 2\lab y prog ii\spicon music\clsfecha.h
+
+1655851399 source:d:\spicon_music\spicon music\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<cstdio>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"rlutil.h"
+	"Funciones Utiles.h"
+	"ClsFecha.h"
+	"ClsInstrumento.h"
+	"ClsCliente.h"
+	"ClsVenta.h"
+	"ClsDetalleV.h"
+	"Funciones_Instrumento.h"
+	"Funciones_Cliente.h"
+	"Funciones_Venta.h"
+	"Funciones_Reportes.h"
+	"Funciones_Configuracion.h"
+	"MenuPrincipal.h"
+
+1651106385 d:\spicon_music\spicon music\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655740768 d:\spicon_music\spicon music\funciones utiles.h
+
+1655412119 d:\spicon_music\spicon music\clsfecha.h
+
+1655920296 d:\spicon_music\spicon music\clsinstrumento.h
+
+1655851827 d:\spicon_music\spicon music\clscliente.h
+	<stdio.h>
+	<cstring>
+
+1655853039 d:\spicon_music\spicon music\clsventa.h
+
+1656021603 d:\spicon_music\spicon music\funciones_instrumento.h
+
+1656021722 d:\spicon_music\spicon music\funciones_cliente.h
+
+1656273681 d:\spicon_music\spicon music\menuprincipal.h
+
+1655920064 d:\spicon_music\spicon music\funciones_venta.h
+
+1655575320 source:c:\users\enzof\onedrive\documentos\utn\labo y prog\spicon\spicon_music\spicon music\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<cstdio>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"rlutil.h"
+	"Funciones Utiles.h"
+	"ClsFecha.h"
+	"ClsInstrumento.h"
+	"ClsCliente.h"
+	"ClsVenta.h"
+	"ClsDetalleV.h"
+	"Funciones_Instrumento.h"
+	"Funciones_Cliente.h"
+	"Funciones_Venta.h"
+	"Funciones_Reportes.h"
+	"Funciones_Configuracion.h"
+	"MenuPrincipal.h"
+
+1651106385 c:\users\enzof\onedrive\documentos\utn\labo y prog\spicon\spicon_music\spicon music\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655575320 c:\users\enzof\onedrive\documentos\utn\labo y prog\spicon\spicon_music\spicon music\funciones utiles.h
+
+1655575320 c:\users\enzof\onedrive\documentos\utn\labo y prog\spicon\spicon_music\spicon music\clsfecha.h
+
+1655576615 c:\users\enzof\onedrive\documentos\utn\labo y prog\spicon\spicon_music\spicon music\clsinstrumento.h
+
+1655387925 c:\users\enzof\onedrive\documentos\utn\labo y prog\spicon\spicon_music\spicon music\clscliente.h
+	<stdio.h>
+	<cstring>
+
+1655581274 c:\users\enzof\onedrive\documentos\utn\labo y prog\spicon\spicon_music\spicon music\clsventa.h
+
+1655578985 c:\users\enzof\onedrive\documentos\utn\labo y prog\spicon\spicon_music\spicon music\funciones_instrumento.h
+
+1655579030 c:\users\enzof\onedrive\documentos\utn\labo y prog\spicon\spicon_music\spicon music\funciones_cliente.h
+
+1655581549 c:\users\enzof\onedrive\documentos\utn\labo y prog\spicon\spicon_music\spicon music\funciones_venta.h
+
+1655575415 c:\users\enzof\onedrive\documentos\utn\labo y prog\spicon\spicon_music\spicon music\menuprincipal.h
+
+1655851399 source:c:\users\facus\desktop\utn nico\laboratorio\spicon music\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<cstdio>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"rlutil.h"
+	"Funciones Utiles.h"
+	"ClsFecha.h"
+	"ClsInstrumento.h"
+	"ClsCliente.h"
+	"ClsVenta.h"
+	"ClsDetalleV.h"
+	"Funciones_Instrumento.h"
+	"Funciones_Cliente.h"
+	"Funciones_Venta.h"
+	"Funciones_Reportes.h"
+	"Funciones_Configuracion.h"
+	"MenuPrincipal.h"
+
+1651106385 c:\users\facus\desktop\utn nico\laboratorio\spicon music\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655740768 c:\users\facus\desktop\utn nico\laboratorio\spicon music\funciones utiles.h
+
+1655412119 c:\users\facus\desktop\utn nico\laboratorio\spicon music\clsfecha.h
+
+1655852580 c:\users\facus\desktop\utn nico\laboratorio\spicon music\clsinstrumento.h
+
+1655851827 c:\users\facus\desktop\utn nico\laboratorio\spicon music\clscliente.h
+	<stdio.h>
+	<cstring>
+
+1655853039 c:\users\facus\desktop\utn nico\laboratorio\spicon music\clsventa.h
+
+1655854588 c:\users\facus\desktop\utn nico\laboratorio\spicon music\funciones_instrumento.h
+
+1655854588 c:\users\facus\desktop\utn nico\laboratorio\spicon music\funciones_cliente.h
+
+1655854683 c:\users\facus\desktop\utn nico\laboratorio\spicon music\funciones_venta.h
+
+1655740769 c:\users\facus\desktop\utn nico\laboratorio\spicon music\menuprincipal.h
+
+1655853701 c:\users\facus\desktop\utn nico\laboratorio\spicon music\clsdetallev.h
+
+1655853701 d:\spicon_music\spicon music\clsdetallev.h
+
+1655580106 c:\users\enzof\onedrive\documentos\utn\labo y prog\spicon\spicon_music\spicon music\clsdetallev.h
+
+1654891164 source:c:\users\usuario\desktop\spiconmusic\spicon music\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<cstdio>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<cstring>
+	"rlutil.h"
+	"Funciones Utiles.h"
+	"ClsFecha.h"
+	"ClsInstrumento.h"
+	"ClsCliente.h"
+	"ClsVenta.h"
+	"ClsDetalleV.h"
+	"Funciones_Instrumento.h"
+	"Funciones_Cliente.h"
+	"Funciones_Venta.h"
+	"MenuPrincipal.h"
+
+1651106385 c:\users\usuario\desktop\spiconmusic\spicon music\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1654786676 c:\users\usuario\desktop\spiconmusic\spicon music\funciones utiles.h
+
+1655068549 c:\users\usuario\desktop\spiconmusic\spicon music\clsfecha.h
+
+1655069588 c:\users\usuario\desktop\spiconmusic\spicon music\clsinstrumento.h
+
+1655068678 c:\users\usuario\desktop\spiconmusic\spicon music\clscliente.h
+	<stdio.h>
+	<cstring>
+
+1654787555 c:\users\usuario\desktop\spiconmusic\spicon music\clsventa.h
+
+1655068138 c:\users\usuario\desktop\spiconmusic\spicon music\clsdetallev.h
+
+1655069563 c:\users\usuario\desktop\spiconmusic\spicon music\funciones_instrumento.h
+
+1655069132 c:\users\usuario\desktop\spiconmusic\spicon music\funciones_cliente.h
+
+1655068909 c:\users\usuario\desktop\spiconmusic\spicon music\funciones_venta.h
+
+1655063577 c:\users\usuario\desktop\spiconmusic\spicon music\menuprincipal.h
+
+1654891164 source:c:\users\usuario\desktop\spiconmusic\spicon music2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<cstdio>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<cstring>
+	"rlutil.h"
+	"Funciones Utiles.h"
+	"ClsFecha.h"
+	"ClsInstrumento.h"
+	"ClsCliente.h"
+	"ClsVenta.h"
+	"ClsDetalleV.h"
+	"Funciones_Instrumento.h"
+	"Funciones_Cliente.h"
+	"Funciones_Venta.h"
+	"MenuPrincipal.h"
+
+1651106385 c:\users\usuario\desktop\spiconmusic\spicon music2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1654786676 c:\users\usuario\desktop\spiconmusic\spicon music2\funciones utiles.h
+
+1655065094 c:\users\usuario\desktop\spiconmusic\spicon music2\clsfecha.h
+
+1654789582 c:\users\usuario\desktop\spiconmusic\spicon music2\clsinstrumento.h
+
+1655065282 c:\users\usuario\desktop\spiconmusic\spicon music2\clscliente.h
+	<stdio.h>
+	<cstring>
+
+1654787555 c:\users\usuario\desktop\spiconmusic\spicon music2\clsventa.h
+
+1654891096 c:\users\usuario\desktop\spiconmusic\spicon music2\clsdetallev.h
+
+1654790041 c:\users\usuario\desktop\spiconmusic\spicon music2\funciones_instrumento.h
+
+1655065633 c:\users\usuario\desktop\spiconmusic\spicon music2\funciones_cliente.h
+
+1654891060 c:\users\usuario\desktop\spiconmusic\spicon music2\funciones_venta.h
+
+1655063577 c:\users\usuario\desktop\spiconmusic\spicon music2\menuprincipal.h
+
+1655246862 c:\users\facus\desktop\utn nico\laboratorio\spicon music\funciones_configuracion.h
+
+1655246862 d:\spicon_music\spicon music\funciones_configuracion.h
+
+1655937830 d:\spicon_music\spicon music\funciones_reportes.h
+
+1655384600 c:\users\enzof\onedrive\documentos\utn\labo y prog\spicon\spicon_music\spicon music\funciones_reportes.h
+
+1655384600 c:\users\enzof\onedrive\documentos\utn\labo y prog\spicon\spicon_music\spicon music\funciones_configuracion.h
+
+1655740768 source:c:\users\santi\desktop\laboratorio\nico\spicon_music\spicon_music\spicon music\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<cstdio>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"rlutil.h"
+	"Funciones Utiles.h"
+	"ClsFecha.h"
+	"ClsInstrumento.h"
+	"ClsCliente.h"
+	"ClsVenta.h"
+	"ClsDetalleV.h"
+	"Funciones_Instrumento.h"
+	"Funciones_Cliente.h"
+	"Funciones_Venta.h"
+	"Funciones_Reportes.h"
+	"Funciones_Configuracion.h"
+	"MenuPrincipal.h"
+
+1651106385 c:\users\santi\desktop\laboratorio\nico\spicon_music\spicon_music\spicon music\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655740768 c:\users\santi\desktop\laboratorio\nico\spicon_music\spicon_music\spicon music\funciones utiles.h
+
+1655412119 c:\users\santi\desktop\laboratorio\nico\spicon_music\spicon_music\spicon music\clsfecha.h
+
+1655740769 c:\users\santi\desktop\laboratorio\nico\spicon_music\spicon_music\spicon music\clsinstrumento.h
+
+1655388412 c:\users\santi\desktop\laboratorio\nico\spicon_music\spicon_music\spicon music\clscliente.h
+	<stdio.h>
+	<cstring>
+
+1655740769 c:\users\santi\desktop\laboratorio\nico\spicon_music\spicon_music\spicon music\clsventa.h
+
+1655741250 c:\users\santi\desktop\laboratorio\nico\spicon_music\spicon_music\spicon music\clsdetallev.h
+
+1655740769 c:\users\santi\desktop\laboratorio\nico\spicon_music\spicon_music\spicon music\funciones_instrumento.h
+
+1655740769 c:\users\santi\desktop\laboratorio\nico\spicon_music\spicon_music\spicon music\funciones_cliente.h
+
+1655741250 c:\users\santi\desktop\laboratorio\nico\spicon_music\spicon_music\spicon music\funciones_venta.h
+
+1655750523 c:\users\santi\desktop\laboratorio\nico\spicon_music\spicon_music\spicon music\funciones_reportes.h
+
+1655246862 c:\users\santi\desktop\laboratorio\nico\spicon_music\spicon_music\spicon music\funciones_configuracion.h
+
+1655740769 c:\users\santi\desktop\laboratorio\nico\spicon_music\spicon_music\spicon music\menuprincipal.h
+
+1655740768 source:c:\users\santi\desktop\laboratorio\nico\spicon music\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	<cstdio>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"rlutil.h"
+	"Funciones Utiles.h"
+	"ClsFecha.h"
+	"ClsInstrumento.h"
+	"ClsCliente.h"
+	"ClsVenta.h"
+	"ClsDetalleV.h"
+	"Funciones_Instrumento.h"
+	"Funciones_Cliente.h"
+	"Funciones_Venta.h"
+	"Funciones_Reportes.h"
+	"Funciones_Configuracion.h"
+	"MenuPrincipal.h"
+
+1651106385 c:\users\santi\desktop\laboratorio\nico\spicon music\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655740768 c:\users\santi\desktop\laboratorio\nico\spicon music\funciones utiles.h
+
+1655412119 c:\users\santi\desktop\laboratorio\nico\spicon music\clsfecha.h
+
+1655750869 c:\users\santi\desktop\laboratorio\nico\spicon music\clsinstrumento.h
+
+1655388412 c:\users\santi\desktop\laboratorio\nico\spicon music\clscliente.h
+	<stdio.h>
+	<cstring>
+
+1655740769 c:\users\santi\desktop\laboratorio\nico\spicon music\clsventa.h
+
+1655741250 c:\users\santi\desktop\laboratorio\nico\spicon music\clsdetallev.h
+
+1655740769 c:\users\santi\desktop\laboratorio\nico\spicon music\funciones_instrumento.h
+
+1655740769 c:\users\santi\desktop\laboratorio\nico\spicon music\funciones_cliente.h
+
+1655741250 c:\users\santi\desktop\laboratorio\nico\spicon music\funciones_venta.h
+
+1655759033 c:\users\santi\desktop\laboratorio\nico\spicon music\funciones_reportes.h
+
+1655246862 c:\users\santi\desktop\laboratorio\nico\spicon music\funciones_configuracion.h
+
+1655740769 c:\users\santi\desktop\laboratorio\nico\spicon music\menuprincipal.h
+
+1655851127 c:\users\facus\desktop\utn nico\laboratorio\spicon music\funciones_reportes.h
+
